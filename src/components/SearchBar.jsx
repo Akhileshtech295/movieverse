@@ -2,9 +2,7 @@ import React from 'react'
 
 const SearchBar = () => {
   return (
-    <div>
-      Search wale bhai sahab
-    </div>
+    <div>AKHILESH</div>
   )
 }
 
